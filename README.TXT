@@ -64,4 +64,3 @@ This project is open-source and available for educational use only.
 
 Dixita Bajracharya  
 Student Project – BlueJ Java GUI Application
-
