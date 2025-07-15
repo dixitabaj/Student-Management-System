@@ -1,6 +1,6 @@
 ---
 
-## Teacher Management System (Extension Module)
+## Teacher Management System 
 
 A Java-based GUI application created using **BlueJ**, designed to manage teacher records efficiently within a school or college environment.This project allows users to **Add**, **View**, **Update**, and **Delete** records of Teachers, Lecturers, and Tutors using a simple and intuitive graphical user interface (GUI) built with Swing.
 
